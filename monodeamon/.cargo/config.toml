@@ -1,0 +1,3 @@
+[target.x86_64-linux-android]
+ar = "x86_64-linux-android-ar"
+linker = "C:/Users/nobody/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/bin/x86_64-linux-android21-clang.cmd"
